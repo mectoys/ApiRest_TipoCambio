@@ -18,3 +18,5 @@ config = {
     'development': DevelopmentConfig
 }
 
+Dentro del GIHUB esta el script de la tabla EXCHANGE RATE , ubícalo en la carpeta script.
+
